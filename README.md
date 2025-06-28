@@ -1,10 +1,10 @@
-# Breast_Cancer_Detection
+# Smart Agriculture
 
 
 
 
 
-
+ 
 ### PROJECT OVERVIEW:
 AI-Driven Smart Agriculture: Hybrid Transformer-CNN for Real-Time Disease Detection in Sustainable Farming
 
